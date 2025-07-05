@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- [1. Cisco pocket tracer_Simple home network setup]
+- [1. Cisco pocket tracer Simple home network setup](https://github.com/irfan-syedd/Cisco-packet-tracer-home-network)
 
 <h2>👨‍💻 Certifications :</h2>
 
