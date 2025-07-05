@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Certifications :</h2>
 
-- [Comptia Security+](https://sso.comptia.org)
+- [Comptia Security+](https://github.com/irfan-syedd/Comptia-Security-/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
