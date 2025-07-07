@@ -1,12 +1,17 @@
 <h1>Hi, I'm Irfan! </h1>
 
+<h2>👨‍💻 Certifications :</h2>
+
+- [Comptia Security+](https://github.com/irfan-syedd/Comptia-Security-/tree/main)
+
+
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - [1. Cisco pocket tracer Simple home network setup](https://github.com/irfan-syedd/Cisco-packet-tracer-home-network)
 
-<h2>👨‍💻 Certifications :</h2>
+<h2>👨‍💻 InternShip :</h2>
 
-- [Comptia Security+](https://github.com/irfan-syedd/Comptia-Security-/tree/main)
+- [NIIT & Cisco Internship  in Cybersecurity with AI ](https://github.com/irfan-syedd/Comptia-Security-/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
