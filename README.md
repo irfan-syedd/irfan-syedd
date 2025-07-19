@@ -3,7 +3,7 @@
 <h2>👨‍💻 Certifications :</h2>
 
 - [Comptia Security+](https://github.com/irfan-syedd/Comptia-Security-/tree/main)
-- 
+ 
 - [Cisco Junior Cyebersecurity analyst](https://github.com/irfan-syedd/Comptia-Security-/tree/main)
 
 
